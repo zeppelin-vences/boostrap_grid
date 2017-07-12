@@ -1,0 +1,19 @@
+div{
+  border: 1px solid blue;
+  }
+
+  #segundo{
+    border-color: red;
+  }
+
+  #tercero{
+    border-color: blue;
+  }
+
+  img{
+    width: 100%;
+  }
+
+  .tamanio{
+    height: 200px;
+  }
